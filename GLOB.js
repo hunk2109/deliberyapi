@@ -2,7 +2,7 @@ global._STORE_ = 'delivery';
 global._APN = 'curiosity-server-b99ff.appspot.com';
 global._SEMILLA = '87364583b873264b8723648597634';
 
-global._KEY_MAPA_GOOGLE = 'AIzaSyBVJKjuIwc-YQO2_AfefJlSG-wj4FSKlZY';
+global._KEY_MAPA_GOOGLE = 'AIzaSyBO0OfzodABoq6-843IaLI1y7uHJAskKWM';
 global._KEY_MAPA_HERE = 'O7k4Hi8BaFskdX3yiDflLsqw89UihPVDREcGbBAPA5A';
 
 global._ID_APP_1 = 1000001;
