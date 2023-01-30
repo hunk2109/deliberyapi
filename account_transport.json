@@ -1,7 +1,10 @@
 {
-    "service": "Gmail",
-    "auth": {
-        "user": "rover.curiosity.app@gmail.com",
-        "pass": "TU_CLAVE_DE_GMAIL_USA_UNA_CALVE_FUERTE"
-    }
+  "service": "gmail",
+  "auth": {
+    "type": "OAuth2",
+    "user": "deliveryfhy@gmail.com",
+    "clientId": "35775363228-absmrc0c433a14iupbb8psb4692uadb2.apps.googleusercontent.com",
+    "clientSecret": "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",
+    "refreshToken": "1//04A7Fa0xwX3LzCgYIARAAGAQSNwF-L9IrGhXfUSh1rCmG32Pg5afIU_8ADJgIzEKjkjEEnUl_r22fg4_yQox57PwG60-MNjBiGQY"
+  }
 }
