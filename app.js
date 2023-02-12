@@ -25,7 +25,7 @@ const mail_rover = async (callback) => {
 };
 
 const authorization1
-    = 'key=AAAAPO-8k3I:APA91bFplhB8nkZVO_712SBF-A5NsW21cyv7OfGxOdpXClp3kmKu3zKL3BIh9BZ-Z5o_GUwpBws9oOk8pu15c9S6ukcCMrvP7nYpDkUY9DCFBcY4n-W-Hmw9RdI9O5lUQauIGgWgLHIp';
+    = 'key= AAAAxvRMJMM:APA91bF-YYcASHMtDu2OfhdMUyDdbDd5lhBZGiQ7vOe95W2RDjcUvbyS0T1akDLRvFd1KboF0HDZ-qBpHG3i8zJ7rBj7gmW7zvp37hacmJsGNK29emfOU91xJJDlaYX-AEhFHayRaqmq';
 
 module.exports = {
     auth, dir, send, restringirApp, code_PMZ, key_PMZ, nombre, isExplorer
