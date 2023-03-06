@@ -160,7 +160,7 @@ function send(idAplicativo, calback) {
                     url: _SERVER + 'curiosity/', mail: emailTransporter, app: 'HYALLIANCE', from: 'Delibery Fast<curiosity@planck.biz>',
                     to: 'HYALLIANCE <curiosity@planck.biz>',
                     slogan: '😋 Comida exquisita, entregas simples. 🛵 Compra YA! 👇🏻',
-                    body_bienvanida: 'Mensaje personalizado', head_bienvanida: 'En Curiosity pide a tu local favorito, o chatea con un asesor por medicina, y te lo llevamos lo antes posible.',
+                    body_bienvanida: 'Mensaje personalizado', head_bienvanida: 'En Delibery Fast pide a tu local favorito, o chatea con un asesor por medicina, y te lo llevamos lo antes posible.',
                     bcc: 'Info <info@planck.biz>', head: head, footer: footer
                 };
                 return calback(json);
@@ -169,7 +169,7 @@ function send(idAplicativo, calback) {
                     url: _SERVER + 'curiosity/', mail: emailTransporter, app: 'HYALLIANCE', from: 'Delibery Fast <curiosity@planck.biz>',
                     to: 'HYALLIANCE  <curiosity@planck.biz>',
                     slogan: '😋 Comida exquisita, entregas simples. 🛵 Compra YA! 👇🏻',
-                    body_bienvanida: 'Mensaje personalizado', head_bienvanida: 'En Curiosity pide a tu local favorito, o chatea con un asesor por medicina, y te lo llevamos lo antes posible.',
+                    body_bienvanida: 'Mensaje personalizado', head_bienvanida: 'En Delibery Fast pide a tu local favorito, o chatea con un asesor por medicina, y te lo llevamos lo antes posible.',
                     bcc: 'Info <info@planck.biz>', head: head, footer: footer
                 };
                 return calback(json);
