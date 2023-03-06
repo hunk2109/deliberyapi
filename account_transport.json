@@ -2,9 +2,9 @@
   "service": "gmail",
   "auth": {
     "type": "OAuth2",
-    "user": "deliveryfhy@gmail.com",
-    "clientId": "35775363228-absmrc0c433a14iupbb8psb4692uadb2.apps.googleusercontent.com",
-    "clientSecret": "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",
-    "refreshToken": "1//04A7Fa0xwX3LzCgYIARAAGAQSNwF-L9IrGhXfUSh1rCmG32Pg5afIU_8ADJgIzEKjkjEEnUl_r22fg4_yQox57PwG60-MNjBiGQY"
+    "user": "eliberyfast@gmail.com",
+    "clientId": "784258117350-0nkj7vssc17u1r06p057uu3mcfqhhral.apps.googleusercontent.com",
+    "clientSecret": "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",
+    "refreshToken": "1//04TKgwjizOtXaCgYIARAAGAQSNwF-L9IrTsIhSsOC30KhBA4UnNeFg4jPPjzE5wBcm01uEzm3F3S8ow9tRr-UspgQN9W47BMVszk"
   }
 }
