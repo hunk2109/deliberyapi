@@ -1,4 +1,4 @@
-global._STORE_ = 'delivery';
+global._STORE_ = 'delibery';
 global._APN = 'curiosity-server-b99ff.appspot.com';
 global._SEMILLA = '87364583b873264b8723648597634';
 

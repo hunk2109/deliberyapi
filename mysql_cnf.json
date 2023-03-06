@@ -1,7 +1,7 @@
 {
-    "host": "10.116.0.2",
-    "user": "node1",
-    "password": "Muerete66@",
+    "host": "172.31.9.211",
+    "user": "node",
+    "password": "muerete66",
     "connectionLimit": 10,
     "multipleStatements": false,
     "charset": "utf8mb4"
