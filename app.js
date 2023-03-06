@@ -157,7 +157,7 @@ function send(idAplicativo, calback) {
         switch (id) {
             case _ID_APP_1:
                 json = {
-                    url: _SERVER + 'curiosity/', mail: emailTransporter, app: 'HYALLIANCE', from: 'Curiosity <curiosity@planck.biz>',
+                    url: _SERVER + 'curiosity/', mail: emailTransporter, app: 'HYALLIANCE', from: 'Delibery Fast<curiosity@planck.biz>',
                     to: 'HYALLIANCE <curiosity@planck.biz>',
                     slogan: '😋 Comida exquisita, entregas simples. 🛵 Compra YA! 👇🏻',
                     body_bienvanida: 'Mensaje personalizado', head_bienvanida: 'En Curiosity pide a tu local favorito, o chatea con un asesor por medicina, y te lo llevamos lo antes posible.',
@@ -166,7 +166,7 @@ function send(idAplicativo, calback) {
                 return calback(json);
             default:
                 json = {
-                    url: _SERVER + 'curiosity/', mail: emailTransporter, app: 'HYALLIANCE', from: 'Curiosity <curiosity@planck.biz>',
+                    url: _SERVER + 'curiosity/', mail: emailTransporter, app: 'HYALLIANCE', from: 'Delibery Fast <curiosity@planck.biz>',
                     to: 'HYALLIANCE  <curiosity@planck.biz>',
                     slogan: '😋 Comida exquisita, entregas simples. 🛵 Compra YA! 👇🏻',
                     body_bienvanida: 'Mensaje personalizado', head_bienvanida: 'En Curiosity pide a tu local favorito, o chatea con un asesor por medicina, y te lo llevamos lo antes posible.',
