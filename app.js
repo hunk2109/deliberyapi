@@ -185,7 +185,7 @@ var head =
     '<meta name="viewport" content="width=device-width"> ' +
     '<meta http-equiv="X-UA-Compatible" content="IE=edge"> ' +
     '<meta name="x-apple-disable-message-reformatting"> ' +
-    '<title>Curiosity</title> ' +
+    '<title>Delivery Fast</title> ' +
     '</head>';
 
 var footer =
@@ -220,21 +220,21 @@ var footer =
     '<td style="padding: 40px 40px 10px 40px; font-family: sans-serif; font-size: 12px; line-height: 18px; color: #666666; text-align: center; font-weight:normal;">' +
     '<p style="margin: 0;">'
 
-    + 'CURIOSITY</p>' +
+    + 'Delibery Fast</p>' +
     '</td>' +
     '</tr>' +
     '<tr>' +
     '<td style="padding: 0px 40px 10px 40px; font-family: sans-serif; font-size: 12px; line-height: 18px; color: #666666; text-align: center; font-weight:normal;">' +
     '<p style="margin: 0;">'
 
-    + 'Si usted recibió este correo por error por favor comuniquese con: info@planck.biz</p>' +
+    + 'Si usted recibió este correo por error por favor comuniquese con: hunkfull@gmail.com</p>' +
     '</td>' +
     '</tr>' +
     '<tr>' +
     '<td style="padding: 0px 40px 40px 40px; font-family: sans-serif; font-size: 12px; line-height: 18px; color: #666666; text-align: center; font-weight:normal;">' +
     '<p style="margin: 0;">'
 
-    + 'Copyright &copy; 2019-2020 <b>PLANCK</b>, Todos los derechos reservados.</p>' +
+    + 'Copyright &copy; 2022-2023 <b>HYALLAINCE</b>, Todos los derechos reservados.</p>' +
     '</td>' +
     '</tr>' +
     '</table>' +
