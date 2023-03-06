@@ -2,7 +2,7 @@
   "service": "gmail",
   "auth": {
     "type": "OAuth2",
-    "user": "eliberyfast@gmail.com",
+    "user": "deliberyfast@gmail.com",
     "clientId": "784258117350-0nkj7vssc17u1r06p057uu3mcfqhhral.apps.googleusercontent.com",
     "clientSecret": "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",
     "refreshToken": "1//04TKgwjizOtXaCgYIARAAGAQSNwF-L9IrTsIhSsOC30KhBA4UnNeFg4jPPjzE5wBcm01uEzm3F3S8ow9tRr-UspgQN9W47BMVszk"
